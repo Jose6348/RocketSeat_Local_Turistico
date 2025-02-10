@@ -1,0 +1,51 @@
+.Titulo-viagem{
+    color: red;
+    font-size: 18px;
+    margin-left: 80px;
+    margin-top: 40px;
+}
+
+*{
+   justify-content: center;
+   padding: 0;
+   margin: 0;
+}
+
+
+img{
+    max-width: 90vw;
+    width: 100%;
+    height: 59vh;
+    margin: 0 80px 0 80px;
+}
+
+p{
+    text-align: center;
+    margin: 0 80px 0 80px;
+}
+
+.listagem{
+    margin-left: 80px;
+}
+
+li{
+    margin-left: 80px;
+    margin-bottom: 20px;
+}
+
+.coracao{
+    font-size: 10px;
+}
+
+footer{
+    text-align: center;
+    margin-top: 30px;
+}
+
+.destinos{
+    margin-left: 80px;
+    margin-bottom: 20px;
+}
+h4{
+    margin-bottom: 12px;
+}
